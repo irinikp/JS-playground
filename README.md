@@ -10,7 +10,8 @@
   	Here are some small practice scripts.
   	</p>
   	<ul>
-  	 <li><a href="https://github.com/irinikp/JS-playground/tree/master/json_jquery">Handle JSON with jQuery</a></li>
+     <li><a href="https://github.com/irinikp/JS-playground/tree/master/json_jquery">Handle JSON with jQuery</a></li>
+  	 <li><a href="https://github.com/irinikp/JS-playground/tree/master/light_mode_theme">Adjust CSS Theme according to daylight</a></li>
   	</ul>
   </body>
 </html>
