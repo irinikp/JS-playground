@@ -12,7 +12,7 @@
     <h3>TODO: </h3>
   	<ul>
     <li>Adjust according to month (winter is darker sooner than summer)
-    <li>Adjust according to location (although I am not planning to apply it on my website, since I don't like alerting visitors for no reason by trying to access their location)
+    <li>Adjust according to Geolocation (although I am not planning to apply it on my website, since I don't like alerting visitors for no reason)
     </ul>
   </body>
 </html>
