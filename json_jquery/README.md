@@ -13,7 +13,7 @@
       In this example I read my data from a json file using jQuery, and send them to HTML view
   	</p>
     <p>
-      <a href="https://github.com/irinikp/JS-playground/blob/master/json_jquery/js/json_handler_irinikp.js">Here</a> you can see the handler I use on my website (which will be live in a few days!)
+      <a href="https://github.com/irinikp/JS-playground/blob/master/json_jquery/js/json_handler_irinikp.js">Here</a> you can see the handler I use on my website
     </p>
   </body>
 </html>
